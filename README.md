@@ -12,7 +12,7 @@ Welcome to my portfolio! Here are my practical and learning projects developed w
 * **AI-Assisted Web Dev & Prototyping:** Bolt.new, Lovable, Next.js (App Router), React, Tailwind CSS, Supabase, Vercel
 * **Business Automation & No-Code:** Make.com (Integromat), Webhooks, Data Store, Make AI Agents
 * **Scripting & AI Integration:** Python (Pandas, Requests, Playwright, Aiogram 3.x), OpenAI Vision / GPT-4o
-* **Version Control:** Git, GitHub, Cursor, Claude Code
+* **Version Control:** Git, GitHub, Claude Code
 
 ---
 
@@ -51,7 +51,7 @@ An intelligent workflow for automated tuition payment receipt verification.
 * **AI-Աջակցությամբ Վեբ Մշակում & Պրոտոտիպավորում:** Bolt.new, Lovable, Next.js (App Router), React, Tailwind CSS, Supabase, Vercel
 * **Բիզնես Ավտոմատացում & No-Code:** Make.com (Integromat), Webhooks, Data Store, Make AI Agents
 * **Սկրիպտավորում & AI Ինտեգրացիա:** Python (Pandas, Requests, Playwright, Aiogram 3.x), OpenAI Vision / GPT-4o
-* **Կառավարման Գործիքներ:** Git, GitHub, Cursor, Claude Code
+* **Կառավարման Գործիքներ:** Git, GitHub, Claude Code
 
 ---
 
